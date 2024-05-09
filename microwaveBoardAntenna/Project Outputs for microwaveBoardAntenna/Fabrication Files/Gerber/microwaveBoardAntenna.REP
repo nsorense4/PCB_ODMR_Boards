@@ -1,0 +1,132 @@
+*************************************************************
+FileName = microwaveBoardAntenna.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : microwaveBoardAntenna.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : microwaveBoardAntenna.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : microwaveBoardAntenna.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : microwaveBoardAntenna.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : microwaveBoardAntenna.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : microwaveBoardAntenna.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : microwaveBoardAntenna.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : microwaveBoardAntenna.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : microwaveBoardAntenna.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D19
+    D20
+*************************************************************
+

@@ -1,0 +1,12 @@
+Output: Copy of Copy of NC Drill Files
+Type  : NC Drill
+From  : PCB Document [microwaveBoardMicrostripShort.PcbDoc]
+   Generated File[microwaveBoardMicrostripShort.TXT]
+   Generated File[microwaveBoardMicrostripShort.LDP]
+   Generated File[microwaveBoardMicrostripShort.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:02:39 PM On 5/8/2024

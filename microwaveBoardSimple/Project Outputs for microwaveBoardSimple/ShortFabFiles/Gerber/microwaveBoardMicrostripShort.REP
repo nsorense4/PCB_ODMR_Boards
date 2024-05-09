@@ -1,0 +1,131 @@
+*************************************************************
+FileName = microwaveBoardMicrostripShort.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : microwaveBoardMicrostripShort.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : microwaveBoardMicrostripShort.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : microwaveBoardMicrostripShort.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : microwaveBoardMicrostripShort.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : microwaveBoardMicrostripShort.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : microwaveBoardMicrostripShort.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : microwaveBoardMicrostripShort.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : microwaveBoardMicrostripShort.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : microwaveBoardMicrostripShort.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+

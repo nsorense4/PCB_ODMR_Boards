@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: microwaveBoardMicrostripShort.PcbDoc   5/8/2024  6:05:10 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : microwaveBoardMicrostripShort-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T2      91mil (2.3mm)                                             Round             5         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              13
+
+Total Processing Time (hh:mm:ss) : 00:00:00
